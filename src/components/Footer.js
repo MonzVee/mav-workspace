@@ -1,5 +1,7 @@
 import React from 'react';
 import config from '../../config';
+
+
 export default function Footer() {
   return (
     <footer id="footer">
@@ -16,9 +18,9 @@ export default function Footer() {
         })}
       </ul>
       <ul className="copyright">
-        <li>&copy; Spectral</li>
+        <li>&copy; MAVDigital 2020</li>
         <li>
-          Design: <a href="http://html5up.net">HTML5 UP</a>
+          Total Branding <a href="http://html5up.net">All Rights Reserved</a>
         </li>
       </ul>
     </footer>
