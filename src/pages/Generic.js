@@ -6,60 +6,66 @@ const IndexPage = () => (
   <Layout fullMenu>
     <article id="main">
       <header>
-        <h2>Generic Page</h2>
-        <p>Aliquam ut ex ut interdum donec amet imperdiet eleifend</p>
+        <h2>Services</h2>
+        <p>No matter your size, project or need, we can help you, Get To Market FAST!</p>
       </header>
       <section className="wrapper style5">
         <div className="inner">
-          <h3>Lorem ipsum dolor</h3>
+          <h3>About US</h3>
           <p>
-            Morbi mattis mi consectetur tortor elementum, varius pellentesque
-            velit convallis. Aenean tincidunt lectus auctor mauris maximus, ac
-            scelerisque ipsum tempor. Duis vulputate ex et ex tincidunt, quis
-            lacinia velit aliquet. Duis non efficitur nisi, id malesuada justo.
-            Maecenas sagittis felis ac sagittis semper. Curabitur purus leo,
-            tempus sed finibus eget, fringilla quis risus. Maecenas et lorem
-            quis sem varius sagittis et a est. Maecenas iaculis iaculis sem.
-            Donec vel dolor at arcu tincidunt bibendum. Interdum et malesuada
-            fames ac ante ipsum primis in faucibus. Fusce ut aliquet justo.
-            Donec id neque ipsum. Integer eget ultricies odio. Nam vel ex a orci
-            fringilla tincidunt. Aliquam eleifend ligula non velit accumsan
-            cursus. Etiam ut gravida sapien.
+            We are a modern software development company, with entrepreneurship at our core.
+            With over 19 years of entreprenurial experience we build products on the understanding that
+            technology is merely a vehicle, in order to increase your brand and grow your business.
+
+            Specialist in building Progressive Web Apps (PWA) for e-commerce applications, to grow and 
+            engage your audience, WE GET TO MARKET FAST!
           </p>
 
+          <h3>PWA for E-commerce</h3>
           <p>
-            Vestibulum ultrices risus velit, sit amet blandit massa auctor sit
-            amet. Sed eu lectus sem. Phasellus in odio at ipsum porttitor mollis
-            id vel diam. Praesent sit amet posuere risus, eu faucibus lectus.
-            Vivamus ex ligula, tempus pulvinar ipsum in, auctor porta quam.
-            Proin nec dui cursus, posuere dui eget interdum. Fusce lectus magna,
-            sagittis at facilisis vitae, pellentesque at etiam. Quisque posuere
-            leo quis sem commodo, vel scelerisque nisi scelerisque. Suspendisse
-            id quam vel tortor tincidunt suscipit. Nullam auctor orci eu dolor
-            consectetur, interdum ullamcorper ante tincidunt. Mauris felis nec
-            felis elementum varius.
+           With the high operating costs and the geographical limitations of traditional
+           brick and motar businesses, E-commerce is the future of retail and every business should have 
+           a retail strategy.
+
+           We specialise in creating blazing fast e-commerce PWA's that are intuitive and help build the clients trust in the brand
+           and online platform. We take a multi-faceted approach in the e-commerce strategy by advising and creating content that
+           increases sales, conversions and growth.
           </p>
 
           <hr />
 
-          <h4>Feugiat aliquam</h4>
+          <h3>Digital Marketing</h3>
           <p>
-            Nam sapien ante, varius in pulvinar vitae, rhoncus id massa. Donec
-            varius ex in mauris ornare, eget euismod urna egestas. Etiam lacinia
-            tempor ipsum, sodales porttitor justo. Aliquam dolor quam, semper in
-            tortor eu, volutpat efficitur quam. Fusce nec fermentum nisl. Aenean
-            erat diam, tempus aliquet erat.
+            Your brand isn't what you say it is, it's what Google says it is.
+            <br/>
+            Your brand is one of your most valuable assets. It's more than just a logo, it's your identity.
+            We will help you identify how to showcase your business to your audience in the most effective manner.
+
+            <br/>
+
+
+            When it comes to social media, frequency is key as you want your content to show up in a variety of ways, but not to be annoying.
+
+            <br/>
+
+            Let us develop the right strategy to keep you top of mind with the desired impact.
           </p>
 
+          <h3>CTO AS A SERVICE</h3>
+
           <p>
-            Etiam iaculis nulla ipsum, et pharetra libero rhoncus ut. Phasellus
-            rutrum cursus velit, eget condimentum nunc blandit vel. In at
-            pulvinar lectus. Morbi diam ante, vulputate et imperdiet eget,
-            fermentum non dolor. Ut eleifend sagittis tincidunt. Sed viverra
-            commodo mi, ac rhoncus justo. Duis neque ligula, elementum ut enim
-            vel, posuere finibus justo. Vivamus facilisis maximus nibh quis
-            pulvinar. Quisque hendrerit in ipsum id tellus facilisis fermentum.
-            Proin mauris dui, at vestibulum sit amet, auctor bibendum neque.
+            Every business needs a digital strategy, and therefore a CTO (Chief Technical Officer), in order to conceptualise and implement it. However not
+            every business can afford a full-time CTO.
+            
+            <br/>
+
+            We consult regarding best practice adoption, a business-centric service delivery model and operational
+            efficiency. We aim for continual service improvement, investing in fit-for-purpose technology, and in cultivating
+            an environment that is monitored, metered and measured.
+
+            <br/>
+
+            We leverage technology in order to achieve a maximum ROI.
           </p>
         </div>
       </section>
