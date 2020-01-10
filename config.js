@@ -16,19 +16,19 @@ module.exports = {
       style: 'brands',
       icon: 'fa-linkedin',
       name: 'LinkedIn',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://www.linkedin.com/in/muneer-variawa-90037715a',
     },
     {
       style: 'brands',
       icon: 'fa-facebook-square',
       name: 'Facebook',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://www.facebook.com/MAVDigital/',
     },
     {
       style: 'solid',
       icon: 'fa-envelope',
       name: 'Email',
-      url: 'mailto:test@example.com',
+      url: 'muneer.variawa1@gmail.com',
     },
   ],
 };
