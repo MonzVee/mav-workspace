@@ -34,6 +34,20 @@ const IndexPage = () => (
 
           <hr />
 
+          <h3>Shopify for E-commerce</h3>
+          <p>
+            Shopify is the simplest, most robust platform for e-commerce applications currently.
+            If you plan to get to market fast, on a tight budget, Shopify is the way to go.
+
+            <br />
+
+            Our team of expert Shopify developers will have your site converting traffic into sales in no time.
+            With a vast eco-system of apps and plugins all catered to e-commerce, have a chat with our Shopify 
+            development team and let's sell some products!
+          </p>
+
+          <hr />
+
           <h3>Digital Marketing</h3>
           <p>
             Your brand isn't what you say it is, it's what Google says it is.
@@ -50,6 +64,8 @@ const IndexPage = () => (
 
             Let us develop the right strategy to keep you top of mind with the desired impact.
           </p>
+
+          <hr />
 
           <h3>CTO AS A SERVICE</h3>
 
@@ -69,6 +85,30 @@ const IndexPage = () => (
           </p>
         </div>
       </section>
+
+      <section id="cta" className="wrapper style4">
+      <div className="inner">
+        <header>
+          <h2>YES, I WANT A Progressive Web App! </h2>
+          <p>
+            We do follow a tried and tested process, however the underlying goal is always TO GET YOU TO MARKET, FAST!
+
+          </p>
+        </header>
+        <ul className="actions stacked">
+          <li>
+            <a href="/Contact" className="button fit primary">
+              I WANT A PWA!
+            </a>
+          </li>
+          <li>
+            <a href="/" className="button fit">
+              Home
+            </a>
+          </li>
+        </ul>
+      </div>
+    </section>
     </article>
   </Layout>
 );

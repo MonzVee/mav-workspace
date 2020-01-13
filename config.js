@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/gatsby-starter-spectral/`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/mavdigital/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'MAV Digital',
   subHeading: 'MOBILE FIRST technology for blazing fast web apps. Increase brand accessibility and boost conversions.  ',
   // social
