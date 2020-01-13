@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'MAVDigital', // <title>
   manifestName: 'MAVDigital',
   manifestShortName: 'MAV', // max 12 characters
-  manifestStartUrl: '/',
+  manifestStartUrl: 'https://www.mavdigital.net/',
   manifestBackgroundColor: '#663399',
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
