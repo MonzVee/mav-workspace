@@ -17,15 +17,15 @@ const IndexPage = () => (
         <ul className="actions special">
           <li>
             <Scroll type="id" element="one">
-              <a href="/#" className="button primary">
-                CONTACT US
+              <a href="/Contact" className="button primary">
+                LEARN MORE
               </a>
             </Scroll>
           </li>
         </ul>
       </div>
       <Scroll type="id" element="one">
-        <a href="#one" className="more">
+        <a href="/Contact" className="more">
           Learn More
         </a>
       </Scroll>
@@ -188,13 +188,13 @@ const IndexPage = () => (
         </header>
         <ul className="actions stacked">
           <li>
-            <a href="/#" className="button fit primary">
+            <a href="/Contact" className="button fit primary">
               I WANT A PWA!
             </a>
           </li>
           <li>
-            <a href="/#" className="button fit">
-              Learn More
+            <a href="/Services" className="button fit">
+              OUR SERVICES
             </a>
           </li>
         </ul>
